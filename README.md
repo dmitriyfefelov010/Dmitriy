@@ -1,2 +1,0 @@
-# Dmitriy
-Created with CodeSandbox
